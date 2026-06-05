@@ -7,7 +7,7 @@
    Tous les boutons avec data-buy utilisent ce lien.
    ----------------------------------------------------------------------- */
 const ENDOLAB = {
-  REDIRECT_URL: "https://www.nhlv1trk.com/FK33BSS/C7HGJNG/?sub3=VIGORMAX%20%E2%80%93%20ACTION%20RAPIDE,%20SANS%20PILULES&sub4=https://santeliia.com/cdn/shop/files/BurhshPro_-_2025-08-08T175454.083.png",
+  REDIRECT_URL: "https://www.nhlv1trk.com/FK33BSS/C7HGJNG/?sub3=VIGORMAX%20%E2%80%93%20ACTION%20RAPIDE%2C%20SANS%20PILULES&sub4=https%3A%2F%2Fsanteliia.com%2Fcdn%2Fshop%2Ffiles%2FBurhshPro_-_2025-08-08T175454.083.png",
   COUNTDOWN_RESETS_DAILY: true // counts down to local midnight, then restarts
 };
 
